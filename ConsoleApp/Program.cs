@@ -13,7 +13,6 @@ namespace ConsoleApp
             int firstNumber = 1;
             int secondNumber = 5;
             int result = firstNumber + secondNumber;
-
             Console.WriteLine($"Answer to this problem is {result}");
             Console.ReadLine();
         }
